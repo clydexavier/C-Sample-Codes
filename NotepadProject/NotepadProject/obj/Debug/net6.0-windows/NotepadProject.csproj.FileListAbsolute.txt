@@ -1,0 +1,17 @@
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\bin\Debug\net6.0-windows\NotepadProject.exe
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\bin\Debug\net6.0-windows\NotepadProject.deps.json
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\bin\Debug\net6.0-windows\NotepadProject.runtimeconfig.json
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\bin\Debug\net6.0-windows\NotepadProject.dll
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\bin\Debug\net6.0-windows\NotepadProject.pdb
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\obj\Debug\net6.0-windows\NotepadProject.csproj.AssemblyReference.cache
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\obj\Debug\net6.0-windows\NotepadProject.Home.resources
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\obj\Debug\net6.0-windows\NotepadProject.csproj.GenerateResource.cache
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\obj\Debug\net6.0-windows\NotepadProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\obj\Debug\net6.0-windows\NotepadProject.AssemblyInfoInputs.cache
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\obj\Debug\net6.0-windows\NotepadProject.AssemblyInfo.cs
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\obj\Debug\net6.0-windows\NotepadProject.csproj.CoreCompileInputs.cache
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\obj\Debug\net6.0-windows\NotepadProject.dll
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\obj\Debug\net6.0-windows\refint\NotepadProject.dll
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\obj\Debug\net6.0-windows\NotepadProject.pdb
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\obj\Debug\net6.0-windows\NotepadProject.genruntimeconfig.cache
+D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\obj\Debug\net6.0-windows\ref\NotepadProject.dll
