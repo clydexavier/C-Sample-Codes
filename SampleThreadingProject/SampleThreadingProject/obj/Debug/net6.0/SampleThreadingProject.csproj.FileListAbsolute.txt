@@ -1,0 +1,15 @@
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\obj\Debug\net6.0\SampleThreadingProject.csproj.AssemblyReference.cache
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\obj\Debug\net6.0\SampleThreadingProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\obj\Debug\net6.0\SampleThreadingProject.AssemblyInfoInputs.cache
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\obj\Debug\net6.0\SampleThreadingProject.AssemblyInfo.cs
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\obj\Debug\net6.0\SampleThreadingProject.csproj.CoreCompileInputs.cache
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\bin\Debug\net6.0\SampleThreadingProject.exe
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\bin\Debug\net6.0\SampleThreadingProject.deps.json
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\bin\Debug\net6.0\SampleThreadingProject.runtimeconfig.json
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\bin\Debug\net6.0\SampleThreadingProject.dll
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\bin\Debug\net6.0\SampleThreadingProject.pdb
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\obj\Debug\net6.0\SampleThreadingProject.dll
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\obj\Debug\net6.0\refint\SampleThreadingProject.dll
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\obj\Debug\net6.0\SampleThreadingProject.pdb
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\obj\Debug\net6.0\SampleThreadingProject.genruntimeconfig.cache
+D:\ACADS\2.2\C#\Lab\SampleThreadingProject\SampleThreadingProject\obj\Debug\net6.0\ref\SampleThreadingProject.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RideSharingApplicationProject", "RideSharingApplicationProject\RideSharingApplicationProject.csproj", "{8AB52519-420F-4C9F-9650-11968436B0DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RideSharingApplicationProject.UnitTests", "RideSharingApplicationProject.UnitTests\RideSharingApplicationProject.UnitTests.csproj", "{008D7FC9-6F44-4055-8106-12215F4A0F7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB52519-420F-4C9F-9650-11968436B0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB52519-420F-4C9F-9650-11968436B0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB52519-420F-4C9F-9650-11968436B0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB52519-420F-4C9F-9650-11968436B0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008D7FC9-6F44-4055-8106-12215F4A0F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008D7FC9-6F44-4055-8106-12215F4A0F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008D7FC9-6F44-4055-8106-12215F4A0F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008D7FC9-6F44-4055-8106-12215F4A0F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96ECDDC3-3A58-442A-B39F-E9A1211FBF4E}
+	EndGlobalSection
+EndGlobal
