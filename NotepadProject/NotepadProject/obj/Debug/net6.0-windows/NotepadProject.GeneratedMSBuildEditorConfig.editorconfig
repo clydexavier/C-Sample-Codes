@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NotepadProject
-build_property.ProjectDir = D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\Lab\NotepadProject\NotepadProject\
+build_property.ProjectDir = D:\ACADS\BSCS-2\Second Sem\CSci 151 - Event Driven Programming\SampleCodes\NotepadProject\NotepadProject\

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ACADS\\BSCS-2\\Second Sem\\CSci 151 - Event Driven Programming\\Lab\\NotepadProject\\NotepadProject\\NotepadProject.csproj": {}
+    "D:\\ACADS\\BSCS-2\\Second Sem\\CSci 151 - Event Driven Programming\\SampleCodes\\NotepadProject\\NotepadProject\\NotepadProject.csproj": {}
   },
   "projects": {
-    "D:\\ACADS\\BSCS-2\\Second Sem\\CSci 151 - Event Driven Programming\\Lab\\NotepadProject\\NotepadProject\\NotepadProject.csproj": {
+    "D:\\ACADS\\BSCS-2\\Second Sem\\CSci 151 - Event Driven Programming\\SampleCodes\\NotepadProject\\NotepadProject\\NotepadProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ACADS\\BSCS-2\\Second Sem\\CSci 151 - Event Driven Programming\\Lab\\NotepadProject\\NotepadProject\\NotepadProject.csproj",
+        "projectUniqueName": "D:\\ACADS\\BSCS-2\\Second Sem\\CSci 151 - Event Driven Programming\\SampleCodes\\NotepadProject\\NotepadProject\\NotepadProject.csproj",
         "projectName": "NotepadProject",
-        "projectPath": "D:\\ACADS\\BSCS-2\\Second Sem\\CSci 151 - Event Driven Programming\\Lab\\NotepadProject\\NotepadProject\\NotepadProject.csproj",
+        "projectPath": "D:\\ACADS\\BSCS-2\\Second Sem\\CSci 151 - Event Driven Programming\\SampleCodes\\NotepadProject\\NotepadProject\\NotepadProject.csproj",
         "packagesPath": "C:\\Users\\salar\\.nuget\\packages\\",
-        "outputPath": "D:\\ACADS\\BSCS-2\\Second Sem\\CSci 151 - Event Driven Programming\\Lab\\NotepadProject\\NotepadProject\\obj\\",
+        "outputPath": "D:\\ACADS\\BSCS-2\\Second Sem\\CSci 151 - Event Driven Programming\\SampleCodes\\NotepadProject\\NotepadProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\salar\\AppData\\Roaming\\NuGet\\NuGet.Config",

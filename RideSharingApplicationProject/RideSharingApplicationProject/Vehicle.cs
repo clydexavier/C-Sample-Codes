@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace RideSharingApplicationProject
 {
+    [Serializable]
     public abstract class Vehicle
     {
         public int MaxCapacity { get; private set; }

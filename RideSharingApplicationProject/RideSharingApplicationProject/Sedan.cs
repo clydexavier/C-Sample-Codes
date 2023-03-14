@@ -8,9 +8,10 @@ namespace RideSharingApplicationProject
 {
     public class Sedan : Vehicle
     {
+        public bool IsAvailable { get; set; }
         public Sedan(int maxCapacity, Driver driver) : base(maxCapacity, driver)
         {
-
+            this.IsAvailable = true;
         }
     }
 }
